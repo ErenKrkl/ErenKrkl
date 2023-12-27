@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=erenkrkl&label=Profile%20views&color=1adb00&style=flat-square" alt="erenkrkl" /> </p>
 
-<p align="center">👨🏻‍💻 I'm currently working on <a href="https://www.linkedin.com/company/kentkart/mycompany/">Kentkart</a></p>
+<p align="center">👨🏻‍💻 I'm currently working on <a href="https://www.linkedin.com/company/kentkart/mycompany/" target="_blank" rel="noreferrer"> <img src="https://www.kentkart.com/wp-content/uploads/2021/01/logo.png" alt="android" width="100" height="20"/> </a></p>
 
-<p align="center">⭐️ My Movie and TV series recommendation application is now available on Google Play Store 🚀 <a href="https://play.google.com/store/apps/details?id=com.erendev.fizi&hl=en&gl=US">FiZi</a></p>
+<p align="center">⭐️ My Movie and TV series recommendation application is now available on <img src="https://freelogopng.com/images/all_img/1664285914google-play-logo-png.png" alt="android" width="15" height="15"/> Google Play Store 🚀 <a href="https://play.google.com/store/apps/details?id=com.erendev.fizi&hl=en&gl=US" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/RFjXTT1shs2CN3im83HIO_9DfSgBZd4Do_AOkULLh7vkLyvejmF_P7nbAZl2qucQjp0=w0" alt="android" width="40" height="40"/> </a></p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
