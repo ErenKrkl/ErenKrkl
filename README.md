@@ -5,7 +5,7 @@
 
 <p align="center">👨🏻‍💻 I'm currently working at <a href="https://media.licdn.com/dms/image/v2/C4D0BAQGnTqGlOOzMzg/company-logo_200_200/company-logo_200_200/0/1679579731278/kentkart_logo?e=1750896000&v=beta&t=qPTMNRXU5XzVMKUBHQsRbOOxMrJoiyyg0itlHrlm16A" target="_blank" rel="noreferrer"> <img src="https://www.kentkart.com/wp-content/uploads/2021/01/logo.png" alt="android" width="100" height="20"/> </a></p>
 
-<p align="center">⭐️ My Movie and TV series recommendation application is now available on <img src="https://freelogopng.com/images/all_img/1664285914google-play-logo-png.png" alt="android" width="15" height="15"/> Google Play Store 🚀 <a href="https://play.google.com/store/apps/details?id=com.erendev.fizi&hl=en&gl=US" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/RFjXTT1shs2CN3im83HIO_9DfSgBZd4Do_AOkULLh7vkLyvejmF_P7nbAZl2qucQjp0=w0" alt="android" width="40" height="40"/> </a></p>
+<p align="center">⭐️ My Movie and TV series recommendation application is now available on <img src="https://freelogopng.com/images/all_img/1664285914google-play-logo-png.png" alt="android" width="15" height="15"/> Google Play Store 🚀 <a href="https://play.google.com/store/apps/details?id=com.erendev.fizi&hl=en&gl=US" target="_blank" rel="noreferrer"> </a></p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
