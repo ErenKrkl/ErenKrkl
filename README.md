@@ -1,16 +1,12 @@
-<h1 align="center">Hi 💪🏻, I'm Eren</h1>
-<h3 align="center">💥 You're now on the Mobile App Developer's page 🔥</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=erenkrkl&label=Profile%20views&color=1adb00&style=flat-square" alt="erenkrkl" /> </p>
-
-<p align="center">👨🏻‍💻 I'm currently working at <a href="https://media.licdn.com/dms/image/v2/C4D0BAQGnTqGlOOzMzg/company-logo_200_200/company-logo_200_200/0/1679579731278/kentkart_logo?e=1750896000&v=beta&t=qPTMNRXU5XzVMKUBHQsRbOOxMrJoiyyg0itlHrlm16A" target="_blank" rel="noreferrer"> <img src="https://www.kentkart.com/wp-content/uploads/2021/01/logo.png" alt="android" width="100" height="20"/> </a></p>
-
-<p align="center">⭐️ My Movie and TV series recommendation application is now available on <img src="https://freelogopng.com/images/all_img/1664285914google-play-logo-png.png" alt="android" width="15" height="15"/> Google Play Store 🚀 <a href="https://play.google.com/store/apps/details?id=com.erendev.fizi&hl=en&gl=US" target="_blank" rel="noreferrer"> </a></p>
-
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/eren-kirkil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eren-kirkil" height="30" width="40" /></a>
+<div align="left">
+<h1>Hi 💪🏻, I'm Eren</h1>
+<p>
+    📱 I am currently working as a mobile software development engineer at <img src="https://www.kentkart.com/wp-content/uploads/2024/01/logo.png" alt="Kentkart" height="15" width="75"/><br/>
+    Connect with me <a href="https://linkedin.com/in/eren-kirkil"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20"/></a>
+  </p>
+<br />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=erenkrkl&label=Profile%20views&color=1adb00&style=flat-square" alt="erenkrkl" />
 </p>
-
-<h3 align="center">Languages & Tools</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/adobe-xd-logo-png-transparent.png" alt="xd" width="40" height="40"/> </a> </p>
+  
+</div>
